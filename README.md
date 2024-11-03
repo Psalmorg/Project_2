@@ -30,7 +30,7 @@ Users should be able to:
 ![](https://github.com/Psalmorg/Project_2/blob/main/Screenshot%20(14).png)
 
 - For Hover Display
-![](./https://github.com/Psalmorg/Project_2/blob/main/Screenshot%20(16).png)
+![](./main/Screenshot%20(16).png)
 
 
 
