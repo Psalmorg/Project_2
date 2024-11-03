@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 - For Normal Display
-![](./Screenshot (14).png)
+![](https://github.com/Psalmorg/Project_2/blob/main/Screenshot%20(14).png)
 
 - For Hover Display
 ![](./Screenshot (14).png)
